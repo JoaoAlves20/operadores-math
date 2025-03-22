@@ -3,7 +3,7 @@ class Operadores:
         self.number1 = number1
         self.number2 = number2
     
-    def soma(self):
+    def somar(self):
         return self.number1 + self.number2
     
     def subtrair(self):

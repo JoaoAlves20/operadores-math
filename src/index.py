@@ -7,7 +7,7 @@ try:
     operation = Operadores(number1, number2)
 
     results = {
-        "somar": operation.soma(),
+        "somar": operation.somar(),
         "subtrair": operation.subtrair(),
         "multiplicar": operation.multiplicar(),
         "dividir": operation.dividir()
